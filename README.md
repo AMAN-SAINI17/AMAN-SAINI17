@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/wave.gif" width="30px"/>, I'm Aman Saini</h1>
+<h1 align="center">Hi <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" width="30px"/>, I'm Aman Saini</h1>
 <h3 align="center">Machine Learning Engineer · GenAI & RAG Builder · Competitive Programmer</h3>
 
 <p align="center">
@@ -110,4 +110,3 @@
 </p>
 
 <p align="center"><i>B.Tech Information Technology · IIIT Bhubaneswar · 2023–2027</i></p>
-
